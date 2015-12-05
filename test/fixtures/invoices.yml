@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  fecha: 2015-12-04 23:59:56
+  inversionista: MyString
+  impuesto: 9.99
+  proyectoApoyado: MyString
+
+two:
+  fecha: 2015-12-04 23:59:56
+  inversionista: MyString
+  impuesto: 9.99
+  proyectoApoyado: MyString
